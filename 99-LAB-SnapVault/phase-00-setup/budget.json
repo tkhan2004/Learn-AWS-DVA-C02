@@ -1,0 +1,9 @@
+{
+  "BudgetName": "dva-lab-monthly",
+  "BudgetLimit": {
+    "Amount": "5",
+    "Unit": "USD"
+  },
+  "TimeUnit": "MONTHLY",
+  "BudgetType": "COST"
+}

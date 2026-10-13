@@ -196,6 +196,8 @@
 
 ## 🛠️ Hands-on Lab đề xuất (thực hành trước khi thi)
 
+> ✅ 10 lab dưới đây đã được gộp thành 1 project xuyên suốt: [99-LAB-SnapVault](99-LAB-SnapVault/README.md) — theo dõi tiến độ ở đó.
+
 - [ ] Lab 1: Deploy Lambda function + API Gateway trigger (Hello World API)
 - [ ] Lab 2: Kết nối Lambda + DynamoDB (CRUD API đơn giản)
 - [ ] Lab 3: Thêm Cognito authentication vào API Gateway
